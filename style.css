@@ -1,0 +1,21 @@
+body{background-color: thistle;
+    text-align: center;
+}
+
+h1{font-family: 'Playfair Display', serif;
+   font-weight:bold ;
+   font-size:10em;
+   color:red;
+}
+
+h2{font-family:'Playfair Display', serif ;
+   font-size:2em ;
+   color: blueviolet;
+}
+ 
+.lyrics p {font-family: 'Playfair Display', serif ;
+          font-size:1.5em;
+          font-weight: bold;
+          color: blue;
+}
+
